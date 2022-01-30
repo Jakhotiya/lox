@@ -1,3 +1,5 @@
+.idea
+php/vendor
 # Logs
 logs
 *.log

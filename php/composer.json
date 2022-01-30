@@ -1,0 +1,19 @@
+{
+    "name": "jakhotiya/lox",
+    "description": "Lox programming language interpreter in php",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Lox\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Abhishek",
+            "email": "jakhotiyaabhishek@gmail.com"
+        }
+    ],
+    "require": {
+        "ext-readline": "*"
+    }
+}
